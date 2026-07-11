@@ -25,7 +25,6 @@ The code for these projects is private (commercial) — I'm happy to discuss the
 | Project | What it is | Stack |
 |---|---|---|
 | **ContextFlow** | Deterministic context orchestrator for AI coding assistants: sits stateless between the IDE and the LLM, composing ephemeral system prompts from hierarchical distilled memory and per-module context rules | TypeScript · Node |
-| **Email Intelligence Pipeline** | Production-grade email triage platform: IMAP/OAuth2 ingestion (Gmail & Outlook) over Redis Streams, dynamic NER, LLM classification (topic, priority, sentiment), versioned dictionaries with drift detection, full audit trail, Prometheus/Grafana monitoring | Python · Redis · LLM |
 | **Knowledge Management System** | Turns Google Drive into an AI knowledge base: workspaces, document-grounded Q&A with precise citations | React · Firebase · Gemini |
 
 ## 🛠️ Tech stack

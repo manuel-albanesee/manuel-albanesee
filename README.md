@@ -2,11 +2,18 @@
 
 **Full-Stack Developer · AI Engineering**
 
-I build web applications end-to-end with **TypeScript, React, Next.js and Node**, and I design **AI-powered systems**: RAG pipelines, LLM agents and local-first inference with Ollama.
+> *I build AI systems you can trust: deterministic, auditable, standards-compliant — from requirements to code to documents.*
+
+I build web applications end-to-end with **TypeScript, React, Next.js and Node**, and I design **AI-powered systems**: RAG pipelines, LLM agents and local-first inference with Ollama. My focus is the part of AI most teams skip: reproducibility, traceability and governance.
 
 🇮🇹 *Sviluppatore full-stack con focus sui sistemi AI — progetto pipeline RAG, agenti LLM e soluzioni di inferenza locale, e costruisco applicazioni web complete dal backend al frontend.*
 
 ---
+
+## 🎯 Currently building
+
+- **[ContextFlow](https://github.com/manuel-albanesee/contextflow-showcase)** — preparing the private-beta launch: npm distribution, licensing and onboarding are done, go-to-market in progress.
+- **[Specification Documents AI](https://github.com/manuel-albanesee/specdocs-ai-showcase)** — closing the functional-artifacts milestone (FSD + Requirements Traceability Matrix generation).
 
 ## 🔭 Open source
 
@@ -28,10 +35,19 @@ the code is private, but I'm happy to discuss the architecture or walk through a
 
 ## 🛠️ Tech stack
 
-- **Frontend** — TypeScript, React, Next.js, Tailwind CSS
-- **Backend** — Node.js, Python (FastAPI, Flask), PostgreSQL, Redis
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
 - **AI / LLM** — RAG architectures, LLM agents, Anthropic/OpenAI/Gemini APIs, Ollama (local inference), prompt engineering
-- **Tooling** — Docker, GitHub Actions, Vitest, Playwright, pytest
+- **Quality** — Vitest, Playwright, pytest, CI/CD
 
 ## 📫 Get in touch
 

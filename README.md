@@ -8,31 +8,31 @@ I build web applications end-to-end with **TypeScript, React, Next.js and Node**
 
 ---
 
-## 🔭 Featured projects
+## 🔭 Open source & live demos
 
 | Project | What it is | Stack |
 |---|---|---|
-| [RAG-Architect-PRO](https://github.com/Kepler9870u0987/RAG-Architect-PRO) | Toolkit for designing and auditing production-ready RAG pipelines · [live demo](https://rag-architect-pro.vercel.app) | React · Gemini API · Ollama |
-| [SocraticEngine](https://github.com/Kepler9870u0987/SocraticEngine) | AI co-writing editor that challenges the author through Socratic dialectic | FastAPI · React · PostgreSQL |
-| [researcher](https://github.com/Kepler9870u0987/researcher) | Pipeline that expands an idea into a citation-backed synthesis via PubMed + LLMs | Python |
-| [menuDigitale](https://github.com/Kepler9870u0987/menuDigitale) | Digital menu platform: CMS, security hardening, full E2E test suite | Next.js · Sanity |
-| [Ollama_mail_generator](https://github.com/Kepler9870u0987/Ollama_mail_generator) | Persona-driven email generator running on local LLMs | Python · Ollama |
+| [researcher](https://github.com/manuel-albanesee/researcher) | Deterministic pipeline that turns an idea into a citation-backed synthesis via arXiv, PubMed, Semantic Scholar and OpenAlex — every run reproducible and fully traced | Python |
+| RAG-Architect-PRO · [live demo](https://rag-architect-pro.vercel.app) | Toolkit for designing and auditing production-ready RAG pipelines *(source private)* | React · Gemini API · Ollama |
 
-## 🔒 Commercial & private work
+## 🚀 Products in development (private code)
 
-The code for these projects is private (commercial) — I'm happy to discuss the architecture or walk through a demo.
+These are commercial products I'm building — the code is private, but I'm happy to
+discuss the architecture or walk through a live demo.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **ContextFlow** | Deterministic context orchestrator for AI coding assistants: sits stateless between the IDE and the LLM, composing ephemeral system prompts from hierarchical distilled memory and per-module context rules | TypeScript · Node |
-| **Specification Documents AI** | AI agents that conduct structured interviews to produce formal software specifications: requirements elicitation into a Functional Specification Document with Requirements Traceability Matrix, and technical design into an IEEE 1016-compliant Software Design Description with full design traceability | Python · LLM |
+| **ContextFlow** | Deterministic context orchestrator for AI coding assistants: a stateless proxy between the IDE (Claude Code, Copilot) and the LLM that composes ephemeral system prompts from hierarchically distilled memory (L0→L3 pyramid) and per-module context rules. Licensing, CLI, audit dashboard and npm packaging already built | TypeScript · Node |
+| **Specification Documents AI** | AI agents that conduct structured interviews to produce formal software specifications: requirements elicitation into an ISO/IEC/IEEE 29148 Functional Specification Document with Requirements Traceability Matrix, and technical design into an IEEE 1016 Software Design Description with full design traceability | Python · Flask · LLM |
+| **SocraticEngine** | AI co-writing editor that doesn't autocomplete your text — it challenges it: Socratic dialectic, philosophical lenses and structured intellectual friction, with client-side zero-knowledge embeddings | FastAPI · React · PostgreSQL |
+| **menuDigitale** | Digital menu platform for restaurants: headless CMS, security hardening (audit logs, proxy trust policy), full Vitest + Playwright test suite | Next.js · Sanity |
 
 ## 🛠️ Tech stack
 
 - **Frontend** — TypeScript, React, Next.js, Tailwind CSS
-- **Backend** — Node.js, Python (FastAPI), PostgreSQL, Redis
-- **AI / LLM** — RAG architectures, LLM agents, Gemini API, Ollama (local inference), prompt engineering
-- **Tooling** — Docker, GitHub Actions, Vitest, Playwright
+- **Backend** — Node.js, Python (FastAPI, Flask), PostgreSQL, Redis
+- **AI / LLM** — RAG architectures, LLM agents, Anthropic/OpenAI/Gemini APIs, Ollama (local inference), prompt engineering
+- **Tooling** — Docker, GitHub Actions, Vitest, Playwright, pytest
 
 ## 📫 Get in touch
 

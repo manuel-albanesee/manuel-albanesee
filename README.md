@@ -8,17 +8,16 @@ I build web applications end-to-end with **TypeScript, React, Next.js and Node**
 
 ---
 
-## 🔭 Open source & live demos
+## 🔭 Open source
 
 | Project | What it is | Stack |
 |---|---|---|
 | [researcher](https://github.com/manuel-albanesee/researcher) | Deterministic pipeline that turns an idea into a citation-backed synthesis via arXiv, PubMed, Semantic Scholar and OpenAlex — every run reproducible and fully traced | Python |
-| RAG-Architect-PRO · [live demo](https://rag-architect-pro.vercel.app) | Toolkit for designing and auditing production-ready RAG pipelines *(source private)* | React · Gemini API · Ollama |
 
 ## 🚀 Products in development (private code)
 
-These are commercial products I'm building — the code is private, but I'm happy to
-discuss the architecture or walk through a live demo.
+These are commercial products I'm building — each links to its public overview;
+the code is private, but I'm happy to discuss the architecture or walk through a live demo.
 
 | Project | What it is | Stack |
 |---|---|---|

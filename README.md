@@ -1,12 +1,32 @@
-# Hi, I'm Manuel Albanese 👋
+```text
+ __  __   _   _  _ _   _ ___ _
+|  \/  | /_\ | \| | | | | __| |
+| |\/| |/ _ \| .` | |_| | _|| |__
+|_|  |_/_/ \_\_|\_|\___/|___|____|
+   _   _    ___   _   _  _ ___ ___ ___
+  /_\ | |  | _ ) /_\ | \| | __/ __| __|
+ / _ \| |__| _ \/ _ \| .` | _|\__ \ _|
+/_/ \_\____|___/_/ \_\_|\_|___|___/___|
 
-**Full-Stack Developer · AI Engineering**
+ full-stack developer · ai engineering
+```
+
+**Hi, I'm Manuel Albanese 👋**
 
 > *I build AI systems you can trust: deterministic, auditable, standards-compliant — from requirements to code to documents.*
 
 I build web applications end-to-end with **TypeScript, React, Next.js and Node**, and I design **AI-powered systems**: RAG pipelines, LLM agents and local-first inference with Ollama. My focus is the part of AI most teams skip: reproducibility, traceability and governance.
 
 🇮🇹 *Sviluppatore full-stack con focus sui sistemi AI — progetto pipeline RAG, agenti LLM e soluzioni di inferenza locale, e costruisco applicazioni web complete dal backend al frontend.*
+
+```text
+$ manuel --trace
+[ok] requirements → ISO/IEC/IEEE 29148, traceable
+[ok] design       → IEEE 1016, every choice anchored
+[ok] ai context   → deterministic, fully auditable
+[ok] research     → citation-backed, reproducible
+$ every system ships with its own audit trail █
+```
 
 ---
 

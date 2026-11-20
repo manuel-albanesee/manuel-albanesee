@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1048" height="375" viewBox="0 0 1048 375" role="img" aria-label="ASCII art of a robotic figure in violet, cyan and green.">
-<rect width="1048" height="375" rx="20" fill="#0b0f19"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1048" height="470" viewBox="0 0 1048 470" role="img" aria-label="ASCII art of a robotic figure in violet, cyan and green.">
+<rect width="1048" height="470" rx="20" fill="#0b0f19"/>
 <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="7.2" font-weight="700">
 <text x="20.0 24.2 28.4 32.6 36.8 41.0 45.2" y="24.0" fill="#504090">....,;-</text>
 <text x="49.4 53.6 57.8" y="24.0" fill="#8060f0">===</text>
@@ -917,6 +917,10 @@
 <text x="692.0 696.2 700.4 704.6 708.8 713.0 717.2 721.4 725.6 729.8 734.0 738.2 742.4 746.6 750.8 755.0 759.2 763.4 767.6 771.8 776.0 780.2 784.4 788.6" y="290.6" fill="#107070">:::;:;:;;::::,,,::;;;;;;</text>
 <text x="792.8 797.0 801.2 805.4 809.6 813.8" y="290.6" fill="#20c0b0">iiiiii</text>
 <text x="818.0 822.2 826.4 830.6" y="290.6" fill="#107070">:::.</text>
+<text x="834.8 839.0" y="290.6" fill="#70e0d0">2X</text>
+<text x="843.2 847.4" y="290.6" fill="#20d0b0">si</text>
+<text x="851.6" y="290.6" fill="#207070">:</text>
+<text x="855.8" y="290.6" fill="#20d0b0">i</text>
 <text x="960.8 965.0 969.2 973.4 977.6 981.8 986.0 990.2 994.4 998.6 1002.8 1007.0 1011.2 1015.4 1019.6 1023.8" y="290.6" fill="#208060">.:::::::::::;;::</text>
 <text x="120.8" y="299.2" fill="#8080f0">\</text>
 <text x="162.8" y="299.2" fill="#7080f0">\</text>
@@ -943,7 +947,11 @@
 <text x="671.0 675.2 679.4" y="299.2" fill="#60d0d0">AAA</text>
 <text x="683.6 687.8 692.0 696.2 700.4 704.6 708.8 713.0 717.2 721.4 725.6 729.8 734.0 738.2 742.4 746.6 750.8 755.0 759.2 763.4" y="299.2" fill="#107070">:::;;::::::;;::::::;</text>
 <text x="767.6 771.8 776.0 780.2 784.4" y="299.2" fill="#20c0b0">iiiii</text>
-<text x="788.6 792.8 797.0 801.2 805.4 809.6 813.8 818.0" y="299.2" fill="#107070">;;:::::.</text>
+<text x="788.6 792.8 797.0 801.2 805.4 809.6 813.8 818.0 830.6" y="299.2" fill="#107070">;;:::::.,</text>
+<text x="834.8 839.0 843.2" y="299.2" fill="#70e0d0">2XX</text>
+<text x="847.4 851.6" y="299.2" fill="#20d0b0">is</text>
+<text x="855.8" y="299.2" fill="#207070">:</text>
+<text x="860.0" y="299.2" fill="#20d0b0">i</text>
 <text x="1007.0 1011.2 1015.4 1019.6 1023.8" y="299.2" fill="#208060">:::::</text>
 <text x="125.0" y="307.8" fill="#8080f0">\</text>
 <text x="167.0" y="307.8" fill="#7080f0">)</text>
@@ -971,7 +979,13 @@
 <text x="687.8 692.0" y="307.8" fill="#10c0c0">ri</text>
 <text x="696.2 700.4 704.6 708.8 713.0 717.2 721.4 725.6 729.8 734.0 738.2 742.4" y="307.8" fill="#107070">;;;:..::;;;;</text>
 <text x="746.6 750.8 755.0" y="307.8" fill="#20c0c0">iii</text>
-<text x="759.2 763.4 767.6 771.8 776.0 780.2 784.4 788.6 792.8 797.0" y="307.8" fill="#107070">;::::::::.</text>
+<text x="759.2 763.4 767.6 771.8 776.0 780.2 784.4 788.6 792.8 797.0 801.2" y="307.8" fill="#107070">;::::::::.:</text>
+<text x="805.4" y="307.8" fill="#20c0b0">i</text>
+<text x="830.6" y="307.8" fill="#107070">:</text>
+<text x="834.8 839.0 843.2" y="307.8" fill="#70e0d0">XAX</text>
+<text x="847.4 851.6" y="307.8" fill="#20d0b0">ss</text>
+<text x="855.8" y="307.8" fill="#207070">:</text>
+<text x="860.0" y="307.8" fill="#20d0b0">i</text>
 <text x="129.2" y="316.4" fill="#8080f0">)</text>
 <text x="167.0" y="316.4" fill="#7080f0">/</text>
 <text x="209.0" y="316.4" fill="#7090f0">/</text>
@@ -996,7 +1010,16 @@
 <text x="725.6" y="316.4" fill="#20c0c0">s</text>
 <text x="729.8" y="316.4" fill="#107070">:</text>
 <text x="734.0" y="316.4" fill="#20c0c0">i</text>
-<text x="738.2 742.4 746.6 750.8 755.0 759.2" y="316.4" fill="#107070">;;;:::</text>
+<text x="738.2 742.4 746.6 750.8 755.0 759.2 776.0" y="316.4" fill="#107070">;;;::::</text>
+<text x="780.2 784.4 788.6" y="316.4" fill="#70e0d0">XAX</text>
+<text x="792.8 797.0" y="316.4" fill="#20c0b0">ss</text>
+<text x="801.2" y="316.4" fill="#107070">:</text>
+<text x="805.4" y="316.4" fill="#20c0b0">i</text>
+<text x="830.6" y="316.4" fill="#107070">,</text>
+<text x="834.8 839.0 843.2" y="316.4" fill="#70e0d0">AAX</text>
+<text x="847.4 851.6" y="316.4" fill="#20d0b0">si</text>
+<text x="855.8" y="316.4" fill="#207070">:</text>
+<text x="860.0" y="316.4" fill="#20d0b0">i</text>
 <text x="129.2" y="325.0" fill="#8080f0">/</text>
 <text x="162.8" y="325.0" fill="#7080f0">/</text>
 <text x="204.8" y="325.0" fill="#7090f0">/</text>
@@ -1012,7 +1035,15 @@
 <text x="721.4 725.6" y="325.0" fill="#20c0c0">ss</text>
 <text x="729.8 734.0 738.2" y="325.0" fill="#107070">:;;</text>
 <text x="742.4" y="325.0" fill="#20c0c0">i</text>
-<text x="746.6 750.8" y="325.0" fill="#107070">::</text>
+<text x="746.6 750.8 780.2" y="325.0" fill="#107070">::,</text>
+<text x="784.4 788.6 792.8" y="325.0" fill="#70e0d0">AAX</text>
+<text x="797.0 801.2" y="325.0" fill="#20c0b0">si</text>
+<text x="805.4" y="325.0" fill="#107070">:</text>
+<text x="809.6" y="325.0" fill="#20c0b0">i</text>
+<text x="834.8" y="325.0" fill="#107070">:</text>
+<text x="839.0 843.2" y="325.0" fill="#207070">--</text>
+<text x="847.4" y="325.0" fill="#20d0b0">=</text>
+<text x="851.6 855.8 860.0" y="325.0" fill="#207070">;;:</text>
 <text x="125.0" y="333.6" fill="#8080f0">/</text>
 <text x="158.6" y="333.6" fill="#7080f0">/</text>
 <text x="200.6" y="333.6" fill="#7090f0">/</text>
@@ -1026,7 +1057,16 @@
 <text x="721.4" y="333.6" fill="#70d0d0">X</text>
 <text x="725.6" y="333.6" fill="#107070">:</text>
 <text x="729.8" y="333.6" fill="#20c0c0">i</text>
-<text x="734.0 738.2 742.4 746.6" y="333.6" fill="#107070">;;::</text>
+<text x="734.0 738.2 742.4 746.6 780.2" y="333.6" fill="#107070">;;:::</text>
+<text x="784.4 788.6 792.8" y="333.6" fill="#70e0d0">A2X</text>
+<text x="797.0 801.2" y="333.6" fill="#20c0b0">is</text>
+<text x="805.4" y="333.6" fill="#107070">:</text>
+<text x="809.6" y="333.6" fill="#20c0b0">i</text>
+<text x="839.0" y="333.6" fill="#207070">,</text>
+<text x="843.2 847.4 851.6" y="333.6" fill="#70e0d0">2XX</text>
+<text x="855.8 860.0" y="333.6" fill="#20d0b0">ss</text>
+<text x="864.2" y="333.6" fill="#207070">:</text>
+<text x="868.4" y="333.6" fill="#20d0b0">i</text>
 <text x="120.8" y="342.2" fill="#8080f0">\</text>
 <text x="154.4" y="342.2" fill="#6070f0">o</text>
 <text x="196.4" y="342.2" fill="#6080f0">o</text>
@@ -1040,7 +1080,14 @@
 <text x="717.2 721.4" y="342.2" fill="#70d0d0">XX</text>
 <text x="725.6" y="342.2" fill="#107070">:</text>
 <text x="729.8" y="342.2" fill="#20c0c0">i</text>
-<text x="734.0 738.2 742.4" y="342.2" fill="#107070">;;:</text>
+<text x="734.0 738.2 742.4 780.2 784.4 788.6" y="342.2" fill="#107070">;;::--</text>
+<text x="792.8" y="342.2" fill="#20c0b0">=</text>
+<text x="797.0 801.2 805.4" y="342.2" fill="#107070">;;:</text>
+<text x="839.0" y="342.2" fill="#207070">:</text>
+<text x="843.2 847.4 851.6" y="342.2" fill="#70e0d0">XAX</text>
+<text x="855.8 860.0" y="342.2" fill="#20d0b0">si</text>
+<text x="864.2" y="342.2" fill="#207070">:</text>
+<text x="868.4" y="342.2" fill="#20d0b0">i</text>
 <text x="116.6" y="350.8" fill="#7070f0">o</text>
 <text x="221.6" y="350.8" fill="#6090f0">\</text>
 <text x="629.0" y="350.8" fill="#107080">:</text>
@@ -1053,7 +1100,168 @@
 <text x="717.2 721.4" y="350.8" fill="#70d0d0">XX</text>
 <text x="725.6" y="350.8" fill="#107070">:</text>
 <text x="729.8" y="350.8" fill="#20c0c0">i</text>
-<text x="734.0 738.2 742.4" y="350.8" fill="#107070">;::</text>
+<text x="734.0 738.2 742.4 780.2" y="350.8" fill="#107070">;:::</text>
+<text x="784.4 788.6 792.8" y="350.8" fill="#70e0d0">XAX</text>
+<text x="797.0 801.2" y="350.8" fill="#20c0b0">si</text>
+<text x="805.4" y="350.8" fill="#107070">:</text>
+<text x="809.6" y="350.8" fill="#20c0b0">i</text>
+<text x="839.0 843.2 847.4" y="350.8" fill="#207070">:--</text>
+<text x="851.6" y="350.8" fill="#20d0b0">=</text>
+<text x="855.8 860.0 864.2" y="350.8" fill="#207070">;;:</text>
+<text x="624.8" y="359.4" fill="#107080">:</text>
+<text x="629.0 633.2 637.4" y="359.4" fill="#60d0e0">A2X</text>
+<text x="641.6 645.8" y="359.4" fill="#10c0c0">si</text>
+<text x="650.0" y="359.4" fill="#107070">:</text>
+<text x="654.2" y="359.4" fill="#10c0c0">i</text>
+<text x="675.2" y="359.4" fill="#107070">:</text>
+<text x="679.4 683.6 687.8" y="359.4" fill="#60d0d0">A2X</text>
+<text x="692.0 696.2" y="359.4" fill="#10c0c0">si</text>
+<text x="700.4" y="359.4" fill="#107070">:</text>
+<text x="704.6" y="359.4" fill="#10c0c0">i</text>
+<text x="725.6" y="359.4" fill="#107070">:</text>
+<text x="729.8 734.0 738.2" y="359.4" fill="#70d0d0">A2X</text>
+<text x="742.4 746.6" y="359.4" fill="#20c0c0">si</text>
+<text x="750.8" y="359.4" fill="#107070">:</text>
+<text x="755.0" y="359.4" fill="#20c0c0">i</text>
+<text x="780.2" y="359.4" fill="#107070">,</text>
+<text x="784.4 788.6 792.8" y="359.4" fill="#70e0d0">AAX</text>
+<text x="797.0 801.2" y="359.4" fill="#20c0b0">is</text>
+<text x="805.4" y="359.4" fill="#107070">:</text>
+<text x="809.6" y="359.4" fill="#20c0b0">i</text>
+<text x="847.4" y="359.4" fill="#207070">:</text>
+<text x="851.6 855.8" y="359.4" fill="#70e0d0">AX</text>
+<text x="860.0" y="359.4" fill="#20d0b0">s</text>
+<text x="864.2" y="359.4" fill="#207070">:</text>
+<text x="624.8" y="368.0" fill="#107080">,</text>
+<text x="629.0 633.2 637.4" y="368.0" fill="#60d0e0">2XX</text>
+<text x="641.6 645.8" y="368.0" fill="#10c0c0">is</text>
+<text x="650.0" y="368.0" fill="#107070">:</text>
+<text x="654.2" y="368.0" fill="#10c0c0">i</text>
+<text x="675.2" y="368.0" fill="#107070">,</text>
+<text x="679.4 683.6 687.8" y="368.0" fill="#60d0d0">2XX</text>
+<text x="692.0 696.2" y="368.0" fill="#10c0c0">is</text>
+<text x="700.4" y="368.0" fill="#107070">:</text>
+<text x="704.6" y="368.0" fill="#10c0c0">i</text>
+<text x="725.6" y="368.0" fill="#107070">,</text>
+<text x="729.8 734.0 738.2" y="368.0" fill="#70d0d0">2XX</text>
+<text x="742.4 746.6" y="368.0" fill="#20c0c0">is</text>
+<text x="750.8" y="368.0" fill="#107070">:</text>
+<text x="755.0" y="368.0" fill="#20c0c0">i</text>
+<text x="784.4" y="368.0" fill="#107070">:</text>
+<text x="788.6 792.8 797.0" y="368.0" fill="#70e0d0">A2X</text>
+<text x="801.2 805.4" y="368.0" fill="#20c0b0">ss</text>
+<text x="809.6" y="368.0" fill="#107070">:</text>
+<text x="813.8" y="368.0" fill="#20c0b0">i</text>
+<text x="855.8" y="368.0" fill="#207070">,</text>
+<text x="860.0" y="368.0" fill="#70e0d0">X</text>
+<text x="864.2" y="368.0" fill="#207070">:</text>
+<text x="620.6" y="376.6" fill="#107080">:</text>
+<text x="624.8 629.0 633.2" y="376.6" fill="#60d0e0">XAX</text>
+<text x="637.4 641.6" y="376.6" fill="#10c0c0">ss</text>
+<text x="645.8" y="376.6" fill="#107080">:</text>
+<text x="650.0" y="376.6" fill="#10c0c0">i</text>
+<text x="675.2" y="376.6" fill="#107070">:</text>
+<text x="679.4 683.6 687.8" y="376.6" fill="#60d0d0">XAX</text>
+<text x="692.0 696.2" y="376.6" fill="#10c0c0">ss</text>
+<text x="700.4" y="376.6" fill="#107070">:</text>
+<text x="704.6" y="376.6" fill="#10c0c0">i</text>
+<text x="725.6" y="376.6" fill="#107070">:</text>
+<text x="729.8 734.0 738.2" y="376.6" fill="#70d0d0">XAX</text>
+<text x="742.4 746.6" y="376.6" fill="#20c0c0">ss</text>
+<text x="750.8" y="376.6" fill="#107070">:</text>
+<text x="755.0" y="376.6" fill="#20c0c0">i</text>
+<text x="784.4 788.6 792.8" y="376.6" fill="#107070">:--</text>
+<text x="797.0" y="376.6" fill="#20c0b0">=</text>
+<text x="801.2 805.4 809.6" y="376.6" fill="#107070">;;:</text>
+<text x="855.8" y="376.6" fill="#207070">:</text>
+<text x="860.0" y="376.6" fill="#70e0d0">X</text>
+<text x="864.2" y="376.6" fill="#207070">:</text>
+<text x="620.6 624.8 629.0" y="385.2" fill="#107080">:--</text>
+<text x="633.2" y="385.2" fill="#10c0c0">=</text>
+<text x="637.4 641.6 645.8" y="385.2" fill="#107080">;;:</text>
+<text x="675.2 679.4 683.6" y="385.2" fill="#107070">:--</text>
+<text x="687.8" y="385.2" fill="#10c0c0">=</text>
+<text x="692.0 696.2 700.4 725.6 729.8 734.0" y="385.2" fill="#107070">;;::--</text>
+<text x="738.2" y="385.2" fill="#20c0c0">=</text>
+<text x="742.4 746.6 750.8 784.4" y="385.2" fill="#107070">;;::</text>
+<text x="788.6 792.8 797.0" y="385.2" fill="#70e0d0">XAX</text>
+<text x="801.2 805.4" y="385.2" fill="#20c0b0">is</text>
+<text x="809.6" y="385.2" fill="#107070">:</text>
+<text x="813.8" y="385.2" fill="#20c0b0">i</text>
+<text x="620.6" y="393.8" fill="#107080">:</text>
+<text x="624.8 629.0 633.2" y="393.8" fill="#60d0e0">A2X</text>
+<text x="637.4 641.6" y="393.8" fill="#10c0c0">is</text>
+<text x="645.8" y="393.8" fill="#107080">:</text>
+<text x="650.0" y="393.8" fill="#10c0c0">i</text>
+<text x="675.2" y="393.8" fill="#107070">:</text>
+<text x="679.4 683.6 687.8" y="393.8" fill="#60d0d0">A2X</text>
+<text x="692.0 696.2" y="393.8" fill="#10c0c0">is</text>
+<text x="700.4" y="393.8" fill="#107070">:</text>
+<text x="704.6" y="393.8" fill="#10c0c0">i</text>
+<text x="729.8" y="393.8" fill="#107070">:</text>
+<text x="734.0 738.2 742.4" y="393.8" fill="#70d0d0">A2X</text>
+<text x="746.6 750.8" y="393.8" fill="#20c0c0">is</text>
+<text x="755.0" y="393.8" fill="#107070">:</text>
+<text x="759.2" y="393.8" fill="#20c0c0">i</text>
+<text x="784.4" y="393.8" fill="#107070">,</text>
+<text x="788.6 792.8 797.0" y="393.8" fill="#70e0d0">AAX</text>
+<text x="801.2 805.4" y="393.8" fill="#20c0b0">ss</text>
+<text x="809.6" y="393.8" fill="#107070">:</text>
+<text x="813.8" y="393.8" fill="#20c0b0">i</text>
+<text x="624.8 629.0" y="402.4" fill="#107080">:-</text>
+<text x="633.2" y="402.4" fill="#10c0c0">=</text>
+<text x="637.4 641.6" y="402.4" fill="#107080">;:</text>
+<text x="675.2" y="402.4" fill="#107070">,</text>
+<text x="679.4 683.6 687.8" y="402.4" fill="#60d0d0">2XX</text>
+<text x="692.0 696.2" y="402.4" fill="#10c0c0">ss</text>
+<text x="700.4" y="402.4" fill="#107070">:</text>
+<text x="704.6" y="402.4" fill="#10c0c0">i</text>
+<text x="729.8" y="402.4" fill="#107070">,</text>
+<text x="734.0 738.2 742.4" y="402.4" fill="#70d0d0">2XX</text>
+<text x="746.6 750.8" y="402.4" fill="#20c0c0">ss</text>
+<text x="755.0" y="402.4" fill="#107070">:</text>
+<text x="759.2" y="402.4" fill="#20c0c0">i</text>
+<text x="788.6 792.8" y="402.4" fill="#107070">:-</text>
+<text x="797.0" y="402.4" fill="#20c0b0">=</text>
+<text x="801.2 805.4" y="402.4" fill="#107070">;:</text>
+<text x="624.8" y="411.0" fill="#107080">:</text>
+<text x="629.0" y="411.0" fill="#60d0e0">X</text>
+<text x="633.2" y="411.0" fill="#107080">:</text>
+<text x="675.2 679.4 683.6" y="411.0" fill="#107070">:--</text>
+<text x="687.8" y="411.0" fill="#10c0c0">=</text>
+<text x="692.0 696.2 700.4 729.8 734.0 738.2" y="411.0" fill="#107070">;;::--</text>
+<text x="742.4" y="411.0" fill="#20c0c0">=</text>
+<text x="746.6 750.8 755.0 797.0" y="411.0" fill="#107070">;;:,</text>
+<text x="801.2" y="411.0" fill="#70e0d0">X</text>
+<text x="805.4" y="411.0" fill="#107070">:</text>
+<text x="624.8" y="419.6" fill="#107080">,</text>
+<text x="629.0" y="419.6" fill="#60d0e0">X</text>
+<text x="633.2" y="419.6" fill="#107080">:</text>
+<text x="675.2" y="419.6" fill="#107070">,</text>
+<text x="679.4 683.6 687.8" y="419.6" fill="#60d0d0">AAX</text>
+<text x="692.0 696.2" y="419.6" fill="#10c0c0">is</text>
+<text x="700.4" y="419.6" fill="#107070">:</text>
+<text x="704.6" y="419.6" fill="#10c0c0">i</text>
+<text x="734.0" y="419.6" fill="#107070">,</text>
+<text x="738.2 742.4" y="419.6" fill="#70d0d0">AX</text>
+<text x="746.6" y="419.6" fill="#20c0c0">i</text>
+<text x="750.8 797.0" y="419.6" fill="#107070">::</text>
+<text x="801.2" y="419.6" fill="#70e0d0">X</text>
+<text x="805.4" y="419.6" fill="#107070">:</text>
+<text x="679.4" y="428.2" fill="#107070">:</text>
+<text x="683.6 687.8" y="428.2" fill="#60d0d0">AX</text>
+<text x="692.0" y="428.2" fill="#10c0c0">s</text>
+<text x="696.2 738.2" y="428.2" fill="#107070">::</text>
+<text x="742.4" y="428.2" fill="#70d0d0">X</text>
+<text x="746.6" y="428.2" fill="#107070">:</text>
+<text x="683.6" y="436.8" fill="#107070">,</text>
+<text x="687.8" y="436.8" fill="#60d0d0">X</text>
+<text x="692.0 738.2" y="436.8" fill="#107070">:,</text>
+<text x="742.4" y="436.8" fill="#70d0d0">X</text>
+<text x="746.6" y="436.8" fill="#107070">:</text>
+<text x="683.6" y="445.4" fill="#107070">:</text>
+<text x="687.8" y="445.4" fill="#60d0d0">X</text>
+<text x="692.0" y="445.4" fill="#107070">:</text>
 </g>
-<rect x=".75" y=".75" width="1046.5" height="373.5" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
+<rect x=".75" y=".75" width="1046.5" height="468.5" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
 </svg>

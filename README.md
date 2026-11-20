@@ -10,10 +10,6 @@
 
 <br><br>
 
-<img src="assets/creation.svg" alt="Two hands reaching toward each other, a human one and a robotic one, as in The Creation of Adam" width="100%">
-
-<br>
-
 <img src="assets/ascii-hero.svg" alt="ASCII art of a robotic figure in violet, cyan and green" width="100%">
 
 </div>

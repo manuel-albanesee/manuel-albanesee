@@ -10,6 +10,10 @@
 
 <br><br>
 
+<em>Every agent needs a creator. I write the rules.</em>
+
+<br>
+
 <img src="assets/ascii-hero.svg" alt="ASCII art of a robotic figure in violet, cyan and green" width="100%">
 
 </div>

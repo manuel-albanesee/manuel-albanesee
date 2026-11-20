@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1048" height="384" viewBox="0 0 1048 384" role="img" aria-label="ASCII art of a robotic figure in violet, cyan and green.">
-<rect width="1048" height="384" rx="20" fill="#0b0f19"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1048" height="375" viewBox="0 0 1048 375" role="img" aria-label="ASCII art of a robotic figure in violet, cyan and green.">
+<rect width="1048" height="375" rx="20" fill="#0b0f19"/>
 <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="7.2" font-weight="700">
 <text x="20.0 24.2 28.4 32.6 36.8 41.0 45.2" y="24.0" fill="#504090">....,;-</text>
 <text x="49.4 53.6 57.8" y="24.0" fill="#8060f0">===</text>
@@ -117,6 +117,7 @@
 <text x="339.2 343.4" y="118.6" fill="#80c0f0">XX</text>
 <text x="347.6 351.8" y="118.6" fill="#3090e0">x=</text>
 <text x="356.0 360.2" y="118.6" fill="#206080">;,</text>
+<text x="1023.8" y="118.6" fill="#208060">.</text>
 <text x="20.0 24.2 28.4 32.6 36.8 41.0 45.2 49.4 53.6 57.8 62.0 66.2" y="127.2" fill="#504090">;;;;;;;;;;--</text>
 <text x="70.4 74.6 78.8 83.0 87.2" y="127.2" fill="#8060f0">==++x</text>
 <text x="91.4" y="127.2" fill="#a0a0f0">X</text>
@@ -1053,7 +1054,6 @@
 <text x="725.6" y="350.8" fill="#107070">:</text>
 <text x="729.8" y="350.8" fill="#20c0c0">i</text>
 <text x="734.0 738.2 742.4" y="350.8" fill="#107070">;::</text>
-<text x="225.8" y="359.4" fill="#5080f0">o</text>
 </g>
-<rect x=".75" y=".75" width="1046.5" height="382.5" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
+<rect x=".75" y=".75" width="1046.5" height="373.5" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
 </svg>
